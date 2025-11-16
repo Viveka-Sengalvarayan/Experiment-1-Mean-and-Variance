@@ -59,7 +59,7 @@ L = [int(i) for i in input("Enter arrival data: ").split()]
  
 N = len(L) 
 M = max(L) 
-x = [] 
+x = []  
 f = [] 
  
 # Counting frequency of each arrival 
