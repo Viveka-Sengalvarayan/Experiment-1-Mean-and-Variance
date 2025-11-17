@@ -49,8 +49,14 @@ It is calculated as:
 
 
 Reg no: 25016820
+
+
 Name: Viveka
+
+
 Slot name: 3P1-1
+
+
 
 import numpy as np 
  
